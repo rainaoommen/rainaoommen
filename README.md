@@ -1,5 +1,6 @@
-### Hi there 👋
-
+Hi 👋
+My area of interests are Data Analytics, Datawarehousing and almost everything related to Data!
+- View my LinkedIn profile.
 <!--
 **rainaoommen/rainaoommen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainaoommen&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=5)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rainaoommen)](https://github.com/rainaoommen/github-readme-stats)
